@@ -7,3 +7,5 @@ To continue with this , please install the following
 2 ) Matplotlib
 3 ) Numpy
 4 ) Pandas
+
+Some Excercises are done with help of Udacity provided dataset.
