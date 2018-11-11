@@ -3,9 +3,9 @@ Machine Learning Codes with scikit-learn
 
 To continue with this , please install the following
 
-1 ) scikit-learn
-2 ) Matplotlib
-3 ) Numpy
-4 ) Pandas
+    1 ) scikit-learn
+    2 ) Matplotlib
+    3 ) Numpy
+    4 ) Pandas
 
 Some Excercises are done with help of Udacity provided dataset.
